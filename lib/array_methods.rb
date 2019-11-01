@@ -6,18 +6,13 @@ def find_element_index(array, value_to_find)
 
  #until array[counter] == value_to_find
 
-  #puts array[value_to_find]
-  # counter += 1
+  p counter
+  counter += 1
 
  #end
 
 
-  #array.length.times {|value_to_find|
 
-  #}
-
-  # index =
-  #p index
 
 end
 
