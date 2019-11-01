@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
 
  counter = 0
 
- puts array
+ p array
 
  #until array[counter] == value_to_find
 
