@@ -25,6 +25,6 @@ end
 
 def find_min_value(array)
 
-  p array.sort[0]
+  p array.reverse[array.length-1]
   
 end
