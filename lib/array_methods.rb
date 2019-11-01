@@ -19,7 +19,7 @@ end
 
 def find_max_value(array)
 
- p array
+ p array.sort
 
 end
 
