@@ -8,11 +8,12 @@ def find_element_index(array, value_to_find)
   #  puts counter
   #end
 
-  p counter
+  
   counter += 1
 
  end
 
+p counter
 
 end
 
