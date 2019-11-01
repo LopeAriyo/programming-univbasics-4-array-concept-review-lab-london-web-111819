@@ -2,12 +2,14 @@ def find_element_index(array, value_to_find)
 
  counter = 0
 
- until array[counter] == value_to_find
+ puts array
 
-   puts array[value_to_find]
-   counter += 1
+ #until array[counter] == value_to_find
 
- end
+  #puts array[value_to_find]
+  # counter += 1
+
+ #end
 
 
   #array.length.times {|value_to_find|
